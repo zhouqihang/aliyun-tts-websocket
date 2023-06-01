@@ -1,0 +1,33 @@
+{
+  "name": "aliyun-tts-websocket",
+  "version": "0.0.1",
+  "description": "Tools to use aliyun TTS server through websocket.",
+  "repository": "",
+  "main": "dist/bundle.js",
+  "module": "dist/bundle.js",
+  "type": "module",
+  "scripts": {
+    "build": "rollup --config",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "aliyun",
+    "tts",
+    "websocket",
+    "audio"
+  ],
+  "author": "zhouqihang",
+  "license": "ISC",
+  "devDependencies": {
+    "@rollup/plugin-terser": "^0.4.3"
+  },
+  "files": [
+    "dist",
+    "example",
+    "README.md",
+    "index.d.ts"
+  ],
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
