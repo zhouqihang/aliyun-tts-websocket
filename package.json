@@ -1,6 +1,6 @@
 {
   "name": "aliyun-tts-websocket",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Tools to use aliyun TTS server through websocket.",
   "homepage": "https://github.com/zhouqihang/aliyun-tts-websocket",
   "repository": {
