@@ -19,7 +19,8 @@
   "author": "zhouqihang",
   "license": "ISC",
   "devDependencies": {
-    "@rollup/plugin-terser": "^0.4.3"
+    "@rollup/plugin-terser": "^0.4.3",
+    "rollup": "^3.23.0"
   },
   "files": [
     "dist",
