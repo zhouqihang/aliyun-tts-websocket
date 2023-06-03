@@ -2,7 +2,11 @@
   "name": "aliyun-tts-websocket",
   "version": "0.0.1",
   "description": "Tools to use aliyun TTS server through websocket.",
-  "repository": "",
+  "homepage": "https://github.com/zhouqihang/aliyun-tts-websocket",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zhouqihang/aliyun-tts-websocket.git"
+  },
   "main": "dist/bundle.js",
   "module": "dist/bundle.js",
   "type": "module",
