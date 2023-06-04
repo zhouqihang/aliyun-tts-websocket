@@ -49,7 +49,7 @@ This function make you convert audio format by your self. `PCM` is used by defau
 }
 ```
 
-This params is used for `StartTranscription` directive's payload. For more information, see: https://help.aliyun.com/document_detail/324262.html?spm=a2c4g.324262.0.0.7dd87d63BjFUFh#sectiondiv-rz2-i36-2gv
+This param is used for `StartTranscription` directive's payload. For more information, see: https://help.aliyun.com/document_detail/324262.html?spm=a2c4g.324262.0.0.7dd87d63BjFUFh#sectiondiv-rz2-i36-2gv
 
 ### Default header value
 
